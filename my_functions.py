@@ -64,8 +64,8 @@ def set_up_api():
     Set up API for Speech To Text
     '''
     #https://cloud.ibm.com/catalog?category=ai#services
-    apikey = 'hsEfumcCdQwSbK68lfzUZzZMASjBxx9fV_se7SYb7vvV'
-    url = 'https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/6f71947e-8a51-4594-983d-702c9fb1fd18'
+    apikey = ''
+    url = ''
     # Setup service
     print('Setting up connection with IBM Cloud...')
     authenticator = IAMAuthenticator(apikey)
