@@ -37,3 +37,23 @@ Go to the following page to set up FFMPEG in you Windowssystem.
 Run the following in the terminal.
 
 `brew install ffmpeg`
+
+### IBM Packages
+
+Run the following in your terminal.
+
+`pip install ibm_watson`
+
+### To run the program:
+
+* Get your API key and url from IBM using the following link.
+
+  https://cloud.ibm.com/catalog?category=ai#services
+* Put your API key and URL in the `my_functions.py` file.
+
+  ![](image/README/1623889467226.png)
+* Clone the repository and put your video file in the same directory.
+* Run the following in the terminal
+
+  `python main.py`
+* Follow the prompts on the terminal.
