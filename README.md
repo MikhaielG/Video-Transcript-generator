@@ -18,8 +18,22 @@ In general, the user would require the following
 
 Before you run the program check your network connection. The program may run slow if the network connection is unstable. The program may not work if the connection is lost on the user end.
 
-### Python 3:
+### Python 3
 
 Go to the following page to check if you have the python3 and if not how to download it.
 
 * https://realpython.com/installing-python/
+
+### FFMEPG
+
+#### For Windows
+
+Go to the following page to set up FFMPEG in you Windowssystem.
+
+* https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+#### For Mac/Linux
+
+Run the following in the terminal.
+
+`brew install ffmpeg`
